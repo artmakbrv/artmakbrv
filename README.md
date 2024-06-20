@@ -2,6 +2,19 @@
 
 ---
 
+### 📫 Follow me: 
+
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/artem-akbirov-6b25142b7/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
+    <a href="https://t.me/artm_akbrv" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+    </a>
+  </div>
+
+---
+
 [![Header](https://github.com/artmakbrv/artmakbrv/blob/main/assets/image123.png)](https://www.linkedin.com/in/artem-akbirov-6b25142b7/)
 
 ---
@@ -54,17 +67,4 @@
 </div>
 
 ---
-
-### 📫 Follow me: 
-
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/artem-akbirov-6b25142b7/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/artm_akbrv" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-  </div>
-
-  ---
 
